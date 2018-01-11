@@ -1,0 +1,7 @@
+#Wed Jan 10 19:54:57 MST 2018
+base.0=/afs/ualberta.ca/home/s/t/steer/StudioProjects/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f83cbfdc18b31e5b7dad8000d7d377df7cd18bd0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/afs/ualberta.ca/home/s/t/steer/StudioProjects/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8359d817750fa8fd1b6218fecc24d728b2cbaecb/classes.dex
+base.1=/afs/ualberta.ca/home/s/t/steer/StudioProjects/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8359d817750fa8fd1b6218fecc24d728b2cbaecb
+file.0=/afs/ualberta.ca/home/s/t/steer/StudioProjects/FillerCreepForAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f83cbfdc18b31e5b7dad8000d7d377df7cd18bd0/classes.dex
